@@ -1,0 +1,20 @@
+<retConsReciNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+  <tpAmb>2</tpAmb>
+  <verAplic>13_2_82</verAplic>
+  <nRec>310000043184656</nRec>
+  <cStat>104</cStat>
+  <xMotivo>Lote processado</xMotivo>
+  <cUF>31</cUF>
+  <dhRecbto>2015-09-09T20:04:37-03:00</dhRecbto>
+  <protNFe versao="3.10">
+    <infProt>
+      <tpAmb>2</tpAmb>
+      <verAplic>13_2_82</verAplic>
+      <chNFe>31150907305164000176551000000990761000990760</chNFe>
+      <dhRecbto>2015-09-09T20:04:20-03:00</dhRecbto>
+      <digVal>jAdTLYOnApM5y8IgF1BkCHBXxRA=</digVal>
+      <cStat>531</cStat>
+      <xMotivo>Rejeicao: Total da BC ICMS difere do somatorio dos itens</xMotivo>
+    </infProt>
+  </protNFe>
+</retConsReciNFe>
